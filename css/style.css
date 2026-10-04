@@ -5,3 +5,15 @@ h1{
 p{
 	color: green;
 }
+
+a:link{
+	color: purple;
+}
+
+a:visited{
+	color: red;
+}
+
+a:hover{
+	text-decoration: none;
+}
